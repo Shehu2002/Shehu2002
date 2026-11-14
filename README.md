@@ -38,5 +38,3 @@ Ahmadu Bello University, Zaria, Nigeria.
 
 - LinkedIn: linkedin.com/in/shehu-abdulsalam-81a60a335
 
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub URL]
